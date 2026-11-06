@@ -19,3 +19,7 @@ New-Item -ItemType SymbolicLink -Path "$HOME\.copilot\skills\interactive-sequenc
 ```
 
 The scripts need Node.js 18 or later and no packages.
+
+## License
+
+[MIT](LICENSE)
